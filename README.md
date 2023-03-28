@@ -40,3 +40,5 @@
     
 </body>
 </html>
+from{background-image: url("https://img.ltwebstatic.com/images3_pi/2022/04/26/1650938840cb1ed76808774f49d35d72f6a9a8f9e6_thumbnail_900x.webp");}
+    to{background-image: url("https://res.cloudinary.com/klarna-ab/image/fetch/c_scale,w_300,ar_0.8,c_pad,b_auto/f_webp/https%3A%2F%2Fimg.ltwebstatic.com%2Fimages3_pi%2F2022%2F07%2F15%2F16578827093607d7bf5203db38bfe6fbcb73325cd5_thumbnail_600x.webp");}
